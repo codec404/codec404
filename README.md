@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saptarshi Ghosh</h1>
-<h3 align="center">Backend Engineer | Distributed Systems | Zomato SDE</h3>
+<h3 align="center">Backend Engineer | Distributed Systems | Zomato SDE, Ex-Cisco Intern</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -11,40 +11,44 @@
 
 ### 🚀 About Me
 - 💼 **Software Development Engineer at Zomato** (Backend Systems)
-- 🛠️ Worked with **Go, C++, Kafka, gRPC, Redis, PostgreSQL**
-- ⚙️ Built scalable, high-performance backend services & infra systems
-- 🧠 Strong foundation in **Data Structures, Algorithms & System Design**
-- 🏆 Active in **Competitive Programming** (LeetCode Guardian 🛡️)
-- 🎯 Currently exploring **low-level systems, distributed architectures & performance optimization**
+- 🧑‍💻 **Ex-Cisco Intern** (worked on systems-level engineering projects)
+- 🛠️ Experience with **Go, C++, Kafka, gRPC, Redis, PostgreSQL**
+- ⚙️ Passionate about **distributed systems, storage engines & performance optimization**
+- 🧠 Strong in **Data Structures, Algorithms & Problem Solving**
+- 🏆 **LeetCode Guardian 🛡️**
 
 ---
 
 ### 🔭 Featured Projects
+
+- 🧠 **Counting Bloom Filter System (Cisco Project)**  
+  → Designed a **memory-efficient probabilistic data structure** with 2-bit counters  
+  → Implemented **block-wise compression using Zstandard** for disk optimization  
+  → Explored **mmap vs in-memory tradeoffs** and high-performance lookups  
+
+- 🐚 **NSH (Not So Shell)**  
+  → Built a **custom shell scripting system** that stores and processes data in **tabular format (inspired by Nushell)**  
+  → Enables structured data handling within shell workflows  
+  → Focus on **developer productivity & CLI ergonomics**
+
 - 🚀 **Konfig** – Distributed Configuration Management System  
   → Built using **C++ microservices, Kafka, gRPC, Redis, PostgreSQL**  
-  → Designed for scalability, fault tolerance & real-time config updates  
-
-- 🧠 **Counting Bloom Filter System**  
-  → Memory-efficient probabilistic data structure with **block-wise compression (Zstd)**  
-  → Focus on **disk optimization & high-performance lookups**
-
-- 🤖 **Jarvis AI**  
-  → Personal assistant system with automation capabilities  
+  → Designed for **real-time config updates, scalability & fault tolerance**
 
 ---
 
 ### 🌱 Currently Learning
 - Advanced **Distributed Systems Design**
-- **Storage Engines & Compression Techniques**
-- **System Performance Optimization**
+- **Storage Internals & Compression Algorithms**
+- **High-performance backend systems**
 
 ---
 
 ### 💬 Ask Me About
 - Backend Engineering & System Design  
 - Distributed Systems & Microservices  
+- Low-level systems (C++)  
 - Competitive Programming  
-- C++, Go & Performance Optimization  
 
 ---
 
@@ -72,13 +76,11 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://kafka.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
 <a href="https://grpc.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" width="40" height="40"/></a>
 <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
